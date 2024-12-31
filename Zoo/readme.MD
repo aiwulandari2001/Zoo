@@ -165,9 +165,8 @@ The bot supports the following animals:
 - Premium: platypus, capybara, pepe, doge, elephant
 - Legendary: rhinoceros, orca, tiger, shark, lion
 
-Each animal has different characteristics and earning potential. Choose animals based on your strategy and available resources.
+Each animal has different characteristics and earning potential. Choose animals based on your strategy and available resources. If you do not want to upgrade or buy any animals just leave the array empty.
 
-[Previous sections remain unchanged...]
 
 ### 4. `datas.txt` - 🗂️ User Data
 
